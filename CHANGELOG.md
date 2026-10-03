@@ -1,3 +1,16 @@
+## [1.1.0](https://github.com/smmr89/automated-cv/compare/v1.0.0...v1.1.0) (2026-10-03)
+
+### Features
+
+* added experience, change experience filename and updated in resume.tex ([ff3b33f](https://github.com/smmr89/automated-cv/commit/ff3b33f17314da7238b10686587f9f14a534c9a3))
+* added skills, summary and update resume.tex ([0514188](https://github.com/smmr89/automated-cv/commit/05141880c417a730041739bed695697314ba18b6))
+* education section updated ([ebd3bf9](https://github.com/smmr89/automated-cv/commit/ebd3bf9aab1bb22d9dd5eef5911c52ea9d19ce70))
+
+### Bug Fixes
+
+* backslash before ampersand escape char in latex ([a3f9d89](https://github.com/smmr89/automated-cv/commit/a3f9d89aebb6aab7a65de761afa6f7972a1bd966))
+* tweaked experience section and removed code tech section from resume ([b9483eb](https://github.com/smmr89/automated-cv/commit/b9483eb8ad18686eca877bab8f9269dc74a5df7c))
+
 ## 1.0.0 (2026-10-03)
 
 ### CI
