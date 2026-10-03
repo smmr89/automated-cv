@@ -1,3 +1,13 @@
+## 1.0.0 (2026-10-03)
+
+### CI
+
+* configure semantic release, README and fork cleanup ([59604bb](https://github.com/smmr89/automated-cv/commit/59604bbe30c6c377a59b0c0613889789c226729e))
+
+### Features
+
+* update personal info in resume.tex ([780f825](https://github.com/smmr89/automated-cv/commit/780f8255c3de0bc2a5652c4170b517beba6c8b2a))
+
 ## [2.1.0](https://github.com/kirintwn/resume/compare/v2.0.0...v2.1.0) (2022-05-13)
 
 
