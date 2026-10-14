@@ -1,3 +1,9 @@
+## [1.1.1](https://github.com/smmr89/automated-cv/compare/v1.1.0...v1.1.1) (2026-10-14)
+
+### Bug Fixes
+
+* changed mres wording ([fbfc54a](https://github.com/smmr89/automated-cv/commit/fbfc54a782a52eb8135b5f4a2a056819c5767aef))
+
 ## [1.1.0](https://github.com/smmr89/automated-cv/compare/v1.0.0...v1.1.0) (2026-10-03)
 
 ### Features
